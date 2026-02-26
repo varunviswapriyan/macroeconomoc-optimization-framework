@@ -1,0 +1,16 @@
+
+- Python 3.10+ recommended
+- Packages:
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - xgboost (optional; script falls back if missing)
+
+Install (venv recommended):
+```bash
+python -m venv .venv
+source .venv/bin/activate   # Windows: .venv\Scripts\activate
+pip install numpy pandas scipy scikit-learn matplotlib
+pip install xgboost         
