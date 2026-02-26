@@ -36,4 +36,3 @@ This repository contains a **single Python script** that trains a macroeconomic 
 - `data/`  :  FRED-MD CSV data
 - `reports_dynamic_fixed_v4/`: all outputs (CSV/JSON/PNG)
 
-Recommended structure:
